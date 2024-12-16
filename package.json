@@ -1,0 +1,20 @@
+{
+      "name": "crypto-app",
+      "version": "1.0.0",
+      "description": "Crypto trading app with Kivy and AI",
+      "main": "index.js",
+      "scripts": {
+        "start": "node index.js"
+      },
+      "dependencies": {
+        "flask": "^0.2.10",
+        "requests": "^2.31.0",
+        "numpy": "^1.26.4",
+        "tensorflow": "^2.15.0",
+        "kivy": "^2.3.0",
+        "kivymd": "^0.104.2",
+        "matplotlib": "^3.8.3",
+        "garden.matplotlib": "^0.1.5",
+        "buildozer": "^0.41"
+      }
+    }
